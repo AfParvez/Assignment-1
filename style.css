@@ -5,6 +5,11 @@ body{
 h1{
     font-size: 60px;
 }
+#first-border{
+    border-left:8px solid;
+    border-image: linear-gradient(rgb(79, 154, 216),cyan);
+    border-image-slice: 1;
+}
 .blue-color{
     color: rgb(143, 197, 241);
 }
@@ -59,3 +64,4 @@ footer{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
