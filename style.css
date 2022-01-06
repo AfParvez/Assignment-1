@@ -5,8 +5,8 @@ body{
 h1{
     font-size: 60px;
 }
-.orange-color{
-    color: rgb(243, 177, 55);
+.blue-color{
+    color: rgb(143, 197, 241);
 }
 .half-width{
     width: 50%;
@@ -23,7 +23,7 @@ h1{
 .button{
     font-weight: 700;
     color: white;
-    background-color: tomato;
+    background-color: rgb(78, 159, 235);
     text-decoration: none;
     padding: 10px 35px;
     border-radius: 8px;
@@ -32,7 +32,7 @@ h1{
 max: width 150px;;
 max-height: 180px;
 }
-.mission-header{
+.header{
     text-align: center;
 }
 .missions{
