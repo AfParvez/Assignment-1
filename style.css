@@ -1,3 +1,7 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
 h1{
     font-size: 60px;
 }
@@ -24,9 +28,34 @@ h1{
     padding: 10px 35px;
     border-radius: 8px;
 }
-.picture{
-
+.picture img{
+max: width 150px;;
+max-height: 180px;
 }
 .mission-header{
     text-align: center;
+}
+.missions{
+    width: 20%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 20px;
+    border-radius: 15px;
+}
+#mission{
+    background-color: rgb(194, 211, 160);
+}
+#vision{
+    background-color: rgb(229, 182, 190);
+}
+#goals{
+    background-color: rgba(39, 191, 211, 0.164);
+}
+footer{
+    font-family: cursive;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
